@@ -5,8 +5,9 @@
 
 The Chamber of Origins was made directly by the Great Originator as a gift to life, one that allows life to be not only self-directing, but able to mediate its direction before it is even fully formed."
   Darkness 5  ; 0-10
+  Height 1
+  Depth 4
   Width 4
-  Height 4
   ResetTime 30 ; reset after 30 minutes
   Tiles {
     0x0 {
