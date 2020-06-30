@@ -12,21 +12,21 @@ Chamber of Origins:
   Width: 4
   ResetTime: 30
   Tiles:
-    - - - - Arch: ground/dirt
+    - - - - Arch: ground/dirt/block
             Name: This ain't even dirt
-        - - Arch: ground/dirt
-        - - Arch: ground/dirt
-        - - Arch: ground/dirt
-      - - - Arch: ground/dirt
-        - - Arch: ground/dirt
-        - - Arch: ground/dirt
+        - - Arch: ground/grass/tile
+        - - Arch: ground/grass/block
+        - - Arch: ground/dirt/block
+      - - - Arch: ground/dirt/block
+        - - Arch: ground/dirt/block
+        - - Arch: ground/dirt/block
           - Arch: items/GoldCoin
-        - - Arch: ground/dirt
-      - - - Arch: ground/dirt
-        - - Arch: ground/dirt
-        - - Arch: ground/dirt
-        - - Arch: ground/dirt
-      - - - Arch: ground/dirt
-        - - Arch: ground/dirt
-        - - Arch: ground/dirt
-        - - Arch: ground/dirt
+        - - Arch: ground/dirt/block
+      - - - Arch: ground/dirt/block
+        - - Arch: ground/dirt/block
+        - - Arch: ground/plank/tile
+        - - Arch: ground/dirt/block
+      - - - Arch: ground/grass/block
+        - - Arch: ground/grass/tile
+        - - Arch: ground/stone/tile
+        - - Arch: ground/stone/block
