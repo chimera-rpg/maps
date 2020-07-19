@@ -6,8 +6,8 @@ Chamber of Origins:
     It is said that the Great Originator was the one who set the world into motion. The one who believed the universe could be far more than collections of unformed energy. It is with this in mind that a spark was placed and that this spark, through untold iterators, became life. Once this life became self-directing, the Great Originator pulled the universe into full form and gave it direction.
     The Chamber of Origins was made directly by the Great Originator as a gift to life, one that allows life to be not only self-directing, but able to mediate its direction before it is even fully formed."
   Depth: 13
-  Width: 14
-  Height: 6
+  Width: 26
+  Height: 7
   Darkness: 5
   ResetTime: 30
   Tiles:
@@ -103,58 +103,6 @@ Chamber of Origins:
           - ground/grass/block
       - - Archs:
           - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
         - Archs:
           - ground/plank/tile
       - - Archs:
@@ -299,6 +247,8 @@ Chamber of Origins:
           - ground/plank/tile
       - - Archs:
           - ground/grass/block
+        - Archs:
+          - ground/plank/tile
       - - Archs:
           - ground/grass/block
       - - Archs:
@@ -319,10 +269,478 @@ Chamber of Origins:
           - ground/grass/block
       - - Archs:
           - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
       - - Archs:
           - ground/grass/block
       - - Archs:
           - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/grass/block
+        - Archs:
+          - ground/plank/tile
       - - Archs:
           - ground/grass/block
       - - Archs:
@@ -421,8 +839,7 @@ Chamber of Origins:
       - []
       - []
       - []
-      - - Archs:
-          - ground/stone/block
+      - []
     - - []
       - []
       - []
@@ -435,6 +852,24 @@ Chamber of Origins:
       - []
       - []
       - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
       - - Archs:
           - ground/stone/block
     - - []
@@ -442,7 +877,8 @@ Chamber of Origins:
       - []
       - []
       - []
-      - []
+      - - Archs:
+          - ground/stone/block
       - []
       - []
       - []
@@ -456,41 +892,6 @@ Chamber of Origins:
       - []
       - []
       - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-    - - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-    - - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - []
-      - []
       - - Archs:
           - ground/stone/block
       - []
@@ -501,24 +902,7 @@ Chamber of Origins:
       - []
       - - Archs:
           - ground/stone/block
-    - - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-    - - - Archs:
-          - ground/stone/block
+    - - []
       - []
       - []
       - []
@@ -562,8 +946,7 @@ Chamber of Origins:
       - []
       - []
       - []
-      - - Archs:
-          - ground/stone/block
+      - []
       - []
       - []
       - - Archs:
@@ -576,25 +959,6 @@ Chamber of Origins:
       - []
       - - Archs:
           - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-    - - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - []
-      - []
-      - []
       - []
       - []
       - []
@@ -609,7 +973,42 @@ Chamber of Origins:
       - []
       - []
       - []
+      - - Archs:
+          - ground/stone/block
       - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+    - - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+    - - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
       - []
       - []
       - []
@@ -620,36 +1019,12 @@ Chamber of Origins:
           - ground/stone/block
     - - - Archs:
           - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-  - - - []
       - []
       - []
       - []
       - []
-      - []
+      - - Archs:
+          - ground/stone/block
       - []
       - []
       - []
@@ -658,66 +1033,42 @@ Chamber of Origins:
       - []
       - - Archs:
           - ground/stone/block
-    - - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
+    - - - Archs:
+          - ground/stone/block
       - []
       - []
       - []
       - []
       - - Archs:
           - ground/stone/block
-    - - []
       - []
       - []
       - []
+      - - Archs:
+          - ground/stone/block
       - []
       - []
-      - []
-      - []
+      - - Archs:
+          - ground/stone/block
+    - - - Archs:
+          - ground/stone/block
       - []
       - []
       - []
       - []
       - - Archs:
           - ground/stone/block
-    - - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-    - - []
-      - []
       - []
       - []
       - []
       - - Archs:
           - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/stone/block
       - []
       - []
-      - []
-    - - []
+      - - Archs:
+          - ground/stone/block
+    - - - Archs:
+          - ground/stone/block
       - []
       - []
       - []
@@ -785,6 +1136,32 @@ Chamber of Origins:
       - []
       - []
       - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
       - - Archs:
           - ground/stone/block
       - []
@@ -795,8 +1172,7 @@ Chamber of Origins:
       - []
       - []
       - []
-      - - Archs:
-          - ground/stone/block
+      - []
       - - Archs:
           - ground/stone/block
       - - Archs:
@@ -859,34 +1235,6 @@ Chamber of Origins:
       - []
       - []
       - []
-      - - Archs:
-          - ground/stone/block
-    - - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-    - - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
       - []
     - - []
       - []
@@ -918,7 +1266,8 @@ Chamber of Origins:
           - ground/stone/block
       - []
       - []
-      - []
+      - - Archs:
+          - ground/stone/block
     - - []
       - []
       - []
@@ -932,7 +1281,8 @@ Chamber of Origins:
       - []
       - []
       - []
-      - []
+      - - Archs:
+          - ground/stone/block
     - - []
       - []
       - []
@@ -946,7 +1296,8 @@ Chamber of Origins:
       - []
       - []
       - []
-      - []
+      - - Archs:
+          - ground/stone/block
     - - []
       - []
       - []
@@ -987,8 +1338,289 @@ Chamber of Origins:
       - []
       - []
       - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
       - - Archs:
           - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+  - - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
       - []
       - []
       - []
@@ -1007,6 +1639,295 @@ Chamber of Origins:
           - ground/stone/block
       - - Archs:
           - ground/stone/block
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
       - []
       - []
       - []
@@ -1061,33 +1982,6 @@ Chamber of Origins:
       - []
       - []
       - []
-      - - Archs:
-          - ground/stone/block
-    - - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-    - - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
       - []
     - - []
       - []
@@ -1119,7 +2013,8 @@ Chamber of Origins:
           - ground/stone/block
       - []
       - []
-      - []
+      - - Archs:
+          - ground/stone/block
     - - []
       - []
       - []
@@ -1188,6 +2083,34 @@ Chamber of Origins:
       - []
       - []
       - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
       - - Archs:
           - ground/stone/block
       - []
@@ -1200,14 +2123,175 @@ Chamber of Origins:
       - []
       - - Archs:
           - ground/stone/block
+      - []
+      - []
+      - []
       - - Archs:
           - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
       - - Archs:
           - ground/stone/block
+      - []
+      - []
+      - []
       - - Archs:
           - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
       - - Archs:
           - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
       - []
       - []
       - []
@@ -1251,6 +2335,525 @@ Chamber of Origins:
       - []
       - []
   - - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+  - - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
       - []
       - []
       - []
