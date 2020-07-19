@@ -44,6 +44,26 @@ Chamber of Origins:
       - - Archs:
           - ground/grass/block
       - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
           - ground/grass/block
       - - Archs:
           - ground/grass/block
@@ -59,6 +79,12 @@ Chamber of Origins:
           - ground/grass/block
       - - Archs:
           - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
       - - Archs:
           - ground/grass/block
       - - Archs:
@@ -84,7 +110,7 @@ Chamber of Origins:
       - - Archs:
           - ground/grass/block
       - - Archs:
-          - ground/grass/block
+          - ground/dirt/block
       - - Archs:
           - ground/grass/block
       - - Archs:
@@ -103,648 +129,14 @@ Chamber of Origins:
           - ground/grass/block
       - - Archs:
           - ground/grass/block
-        - Archs:
-          - ground/plank/tile
       - - Archs:
           - ground/grass/block
-        - Archs:
-          - ground/plank/tile
       - - Archs:
           - ground/grass/block
-        - Archs:
-          - ground/plank/tile
       - - Archs:
           - ground/grass/block
-        - Archs:
-          - ground/plank/tile
       - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-    - - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-        - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/grass/block
-      - - Archs:
-          - ground/grass/block
+          - ground/dirt/block
       - - Archs:
           - ground/grass/block
       - - Archs:
@@ -770,7 +162,7 @@ Chamber of Origins:
       - - Archs:
           - ground/grass/block
       - - Archs:
-          - ground/grass/block
+          - ground/dirt/block
       - - Archs:
           - ground/grass/block
       - - Archs:
@@ -796,7 +188,7 @@ Chamber of Origins:
       - - Archs:
           - ground/grass/block
       - - Archs:
-          - ground/grass/block
+          - ground/dirt/block
       - - Archs:
           - ground/grass/block
       - - Archs:
@@ -822,7 +214,475 @@ Chamber of Origins:
       - - Archs:
           - ground/grass/block
       - - Archs:
+          - ground/dirt/block
+      - - Archs:
           - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+    - - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/grass/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
+      - - Archs:
+          - ground/dirt/block
       - - Archs:
           - ground/grass/block
       - - Archs:
@@ -879,10 +739,14 @@ Chamber of Origins:
       - []
       - - Archs:
           - ground/stone/block
-      - []
-      - []
-      - []
-      - []
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
       - []
       - []
       - - Archs:
@@ -894,10 +758,14 @@ Chamber of Origins:
       - []
       - - Archs:
           - ground/stone/block
-      - []
-      - []
-      - []
-      - []
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
       - []
       - []
       - - Archs:
@@ -909,9 +777,12 @@ Chamber of Origins:
       - []
       - - Archs:
           - ground/stone/block
-      - []
-      - []
-      - []
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
       - - Archs:
           - ground/stone/block
       - []
@@ -926,9 +797,12 @@ Chamber of Origins:
       - []
       - - Archs:
           - ground/stone/block
-      - []
-      - []
-      - []
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
       - - Archs:
           - ground/stone/block
       - []
@@ -943,10 +817,14 @@ Chamber of Origins:
       - []
       - - Archs:
           - ground/stone/block
-      - []
-      - []
-      - []
-      - []
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
       - []
       - []
       - - Archs:
@@ -959,10 +837,14 @@ Chamber of Origins:
       - []
       - - Archs:
           - ground/stone/block
-      - []
-      - []
-      - []
-      - []
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
       - []
       - []
       - - Archs:
@@ -975,75 +857,12 @@ Chamber of Origins:
       - []
       - - Archs:
           - ground/stone/block
-      - []
-      - []
-      - []
       - - Archs:
-          - ground/stone/block
-      - []
-      - []
+          - ground/plank/tile
       - - Archs:
-          - ground/stone/block
-    - - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - []
-      - []
+          - ground/plank/tile
       - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-    - - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-    - - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-    - - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - []
+          - ground/plank/tile
       - - Archs:
           - ground/stone/block
       - []
@@ -1058,9 +877,12 @@ Chamber of Origins:
       - []
       - - Archs:
           - ground/stone/block
-      - []
-      - []
-      - []
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
       - - Archs:
           - ground/stone/block
       - []
@@ -1075,10 +897,94 @@ Chamber of Origins:
       - []
       - - Archs:
           - ground/stone/block
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+    - - - Archs:
+          - ground/stone/block
       - []
       - []
       - []
       - []
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+    - - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+    - - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+    - - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
       - []
       - []
       - []
@@ -1089,10 +995,14 @@ Chamber of Origins:
       - []
       - - Archs:
           - ground/stone/block
-      - []
-      - []
-      - []
-      - []
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
       - []
       - []
       - []
@@ -1103,24 +1013,12 @@ Chamber of Origins:
       - []
       - - Archs:
           - ground/stone/block
-      - []
-      - []
-      - []
       - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - []
-    - - []
-      - []
-      - []
-      - []
-      - []
+          - ground/plank/tile
       - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - []
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
       - - Archs:
           - ground/stone/block
       - []
@@ -1133,10 +1031,32 @@ Chamber of Origins:
       - []
       - - Archs:
           - ground/stone/block
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+    - - []
       - []
       - []
       - []
       - []
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
       - []
       - []
       - []
@@ -1146,10 +1066,14 @@ Chamber of Origins:
       - []
       - []
       - []
-      - []
-      - []
-      - []
-      - []
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
       - []
       - []
       - []
@@ -1159,9 +1083,12 @@ Chamber of Origins:
       - []
       - []
       - []
-      - []
-      - []
-      - []
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
       - - Archs:
           - ground/stone/block
       - []
