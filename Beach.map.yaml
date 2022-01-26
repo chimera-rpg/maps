@@ -7349,7 +7349,8 @@ Big Beach:
       - []
       - []
       - []
-      - []
+      - - Archs:
+          - items/gray-orb
       - []
       - - Archs:
           - ground/water/tile-transparent
@@ -10234,7 +10235,8 @@ Big Beach:
       - []
       - []
       - []
-      - []
+      - - Archs:
+          - items/gray-orb
       - []
       - []
       - []
