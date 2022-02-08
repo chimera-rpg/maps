@@ -5291,19 +5291,31 @@ Big Beach:
       - - Archs:
           - ground/sand/block
       - - Archs:
-          - ground/water/tile-transparent
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -5351,19 +5363,31 @@ Big Beach:
       - - Archs:
           - ground/sand/block
       - - Archs:
-          - ground/water/tile-transparent
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -7366,32 +7390,13 @@ Big Beach:
       - - Archs:
           - items/gray-orb
       - []
-      - - Archs:
-          - ground/water/tile-transparent
-        - Archs:
-          - ground/lumber/tile
-      - - Archs:
-          - ground/water/tile-transparent
-        - Archs:
-          - ground/lumber/tile
-      - - Archs:
-          - ground/water/tile-transparent
-        - Archs:
-          - ground/lumber/tile
-      - - Archs:
-          - ground/water/tile-transparent
-        - Archs:
-          - ground/lumber/tile
-      - - Archs:
-          - ground/water/tile-transparent
-        - Archs:
-          - ground/lumber/tile
-      - - Archs:
-          - ground/water/tile-transparent
-        - Archs:
-          - ground/lumber/tile
-      - - Archs:
-          - ground/water/tile-transparent
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -7426,32 +7431,13 @@ Big Beach:
       - []
       - []
       - []
-      - - Archs:
-          - ground/water/tile-transparent
-        - Archs:
-          - ground/lumber/tile
-      - - Archs:
-          - ground/water/tile-transparent
-        - Archs:
-          - ground/lumber/tile
-      - - Archs:
-          - ground/water/tile-transparent
-        - Archs:
-          - ground/lumber/tile
-      - - Archs:
-          - ground/water/tile-transparent
-        - Archs:
-          - ground/lumber/tile
-      - - Archs:
-          - ground/water/tile-transparent
-        - Archs:
-          - ground/lumber/tile
-      - - Archs:
-          - ground/water/tile-transparent
-        - Archs:
-          - ground/lumber/tile
-      - - Archs:
-          - ground/water/tile-transparent
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
+      - []
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -7579,8 +7565,12 @@ Big Beach:
           - ground/water/tile-transparent
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -7621,8 +7611,12 @@ Big Beach:
           - ground/water/tile-transparent
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -7661,16 +7655,20 @@ Big Beach:
           - ground/lumber/block
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
         - Archs:
-          - ground/lumber/vbeam
-      - - Archs:
-          - ground/water/tile-transparent
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
         - Archs:
-          - ground/lumber/vbeam
+          - ground/lumber/planks
+      - - Archs:
+          - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -7712,12 +7710,20 @@ Big Beach:
           - ground/lumber/block
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -7758,16 +7764,20 @@ Big Beach:
           - ground/lumber/block
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
         - Archs:
-          - ground/lumber/vbeam
-      - - Archs:
-          - ground/water/tile-transparent
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
         - Archs:
-          - ground/lumber/vbeam
+          - ground/lumber/planks
+      - - Archs:
+          - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -7815,8 +7825,12 @@ Big Beach:
           - ground/water/tile-transparent
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -7865,8 +7879,12 @@ Big Beach:
           - ground/water/tile-transparent
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/planks
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -9333,11 +9351,9 @@ Big Beach:
       - []
       - []
       - []
-      - - Archs:
-          - ground/lumber/tile
       - []
-      - - Archs:
-          - ground/lumber/tile
+      - []
+      - []
       - []
       - []
       - []
@@ -9369,14 +9385,10 @@ Big Beach:
       - []
       - []
       - []
-      - - Archs:
-          - ground/lumber/tile
-      - - Archs:
-          - ground/lumber/tile
-      - - Archs:
-          - ground/lumber/tile
-      - - Archs:
-          - ground/lumber/tile
+      - []
+      - []
+      - []
+      - []
       - []
       - []
       - []
@@ -9406,11 +9418,9 @@ Big Beach:
       - []
       - []
       - []
-      - - Archs:
-          - ground/lumber/tile
       - []
-      - - Archs:
-          - ground/lumber/tile
+      - []
+      - []
       - []
       - []
       - []
