@@ -852,13 +852,13 @@ Chamber of Origins:
       - - Archs:
           - ground/stone/block
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - []
       - []
       - - Archs:
@@ -873,15 +873,15 @@ Chamber of Origins:
       - - Archs:
           - ground/stone/block
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
         - Archs:
           - items/GoldCoin
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - []
       - []
       - - Archs:
@@ -896,33 +896,11 @@ Chamber of Origins:
       - - Archs:
           - ground/stone/block
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-      - []
-      - []
-    - - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
           - ground/stone/block
       - []
@@ -940,13 +918,13 @@ Chamber of Origins:
       - - Archs:
           - ground/stone/block
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/stone/block
       - []
       - []
       - - Archs:
@@ -962,37 +940,37 @@ Chamber of Origins:
       - - Archs:
           - ground/stone/block
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
+      - - Archs:
+          - ground/lumber/tile
+      - - Archs:
+          - ground/lumber/tile
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+    - - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/lumber/tile
+      - - Archs:
+          - ground/lumber/tile
         - Archs:
           - items/GoldCoin
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-      - []
-      - []
-    - - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/stone/block
+          - ground/lumber/tile
       - []
       - []
       - - Archs:
@@ -1008,11 +986,11 @@ Chamber of Origins:
       - - Archs:
           - ground/stone/block
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
           - ground/stone/block
       - []
@@ -1030,55 +1008,11 @@ Chamber of Origins:
       - - Archs:
           - ground/stone/block
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/plank/tile
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-      - []
-      - []
-    - - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/plank/tile
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-      - []
-      - []
-    - - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - []
-      - []
-      - - Archs:
-          - ground/stone/block
-      - - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
           - ground/stone/block
       - []
@@ -1096,11 +1030,55 @@ Chamber of Origins:
       - - Archs:
           - ground/stone/block
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
+      - - Archs:
+          - ground/lumber/tile
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+    - - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/lumber/tile
+      - - Archs:
+          - ground/lumber/tile
+      - - Archs:
+          - ground/lumber/tile
+      - - Archs:
+          - ground/lumber/tile
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+    - - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/lumber/tile
+      - - Archs:
+          - ground/lumber/tile
+      - - Archs:
+          - ground/lumber/tile
       - - Archs:
           - ground/stone/block
       - []
@@ -1118,13 +1096,35 @@ Chamber of Origins:
       - - Archs:
           - ground/stone/block
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/stone/block
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - []
+      - []
+    - - - Archs:
+          - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - - Archs:
+          - ground/stone/block
+      - - Archs:
+          - ground/lumber/tile
+      - - Archs:
+          - ground/lumber/tile
+      - - Archs:
+          - ground/lumber/tile
+      - - Archs:
+          - ground/lumber/tile
       - []
       - []
       - - Archs:
@@ -1139,13 +1139,13 @@ Chamber of Origins:
       - - Archs:
           - ground/stone/block
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - []
       - []
       - []
@@ -1159,11 +1159,11 @@ Chamber of Origins:
       - - Archs:
           - ground/stone/block
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
           - ground/stone/block
       - []
@@ -1180,33 +1180,33 @@ Chamber of Origins:
       - - Archs:
           - ground/stone/block
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/stone/block
-      - []
-      - []
-      - []
-      - []
-      - []
-    - - []
-      - []
-      - []
-      - []
-      - []
+          - ground/lumber/tile
       - - Archs:
           - ground/stone/block
+      - []
+      - []
+      - []
+      - []
+      - []
+    - - []
+      - []
+      - []
+      - []
+      - []
       - - Archs:
-          - ground/plank/tile
+          - ground/stone/block
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
+      - - Archs:
+          - ground/lumber/tile
       - []
       - []
       - []
@@ -1219,13 +1219,13 @@ Chamber of Origins:
       - []
       - []
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - []
       - []
       - []
@@ -1238,11 +1238,11 @@ Chamber of Origins:
       - []
       - []
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
-          - ground/plank/tile
+          - ground/lumber/tile
       - - Archs:
           - ground/stone/block
       - []

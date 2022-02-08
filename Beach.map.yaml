@@ -3801,6 +3801,8 @@ Big Beach:
           - ground/water/tile-transparent
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/vbeam
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -3882,10 +3884,14 @@ Big Beach:
           - ground/sand/block
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/vbeam
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/vbeam
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -5648,70 +5654,14 @@ Big Beach:
           - ground/water/tile-transparent
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/vbeam
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
           - ground/water/tile-transparent
-      - - Archs:
-          - ground/water/tile-transparent
-      - - Archs:
-          - ground/water/tile-transparent
-      - - Archs:
-          - ground/water/tile-transparent
-      - - Archs:
-          - ground/water/tile-transparent
-      - - Archs:
-          - ground/water/tile-transparent
-      - - Archs:
-          - ground/water/tile-transparent
-    - - - Archs:
-          - ground/sand/block
-      - - Archs:
-          - ground/sand/block
-      - - Archs:
-          - ground/sand/block
-      - - Archs:
-          - ground/sand/block
-      - - Archs:
-          - ground/sand/block
-      - - Archs:
-          - ground/sand/block
-      - - Archs:
-          - ground/sand/block
-      - - Archs:
-          - ground/sand/block
-      - - Archs:
-          - ground/sand/block
-      - - Archs:
-          - ground/sand/block
-      - - Archs:
-          - ground/sand/block
-      - - Archs:
-          - ground/sand/block
-      - - Archs:
-          - ground/sand/block
-      - - Archs:
-          - ground/sand/block
-      - - Archs:
-          - ground/sand/block
-      - - Archs:
-          - ground/sand/block
-      - - Archs:
-          - ground/sand/block
-      - - Archs:
-          - ground/sand/block
-      - - Archs:
-          - ground/sand/block
-      - - Archs:
-          - ground/sand/block
-      - - Archs:
-          - ground/water/tile-transparent
-      - - Archs:
-          - ground/water/tile-transparent
-      - - Archs:
-          - ground/water/tile-transparent
-      - - Archs:
-          - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/vbeam
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -5772,6 +5722,70 @@ Big Beach:
           - ground/water/tile-transparent
       - - Archs:
           - ground/water/tile-transparent
+      - - Archs:
+          - ground/water/tile-transparent
+      - - Archs:
+          - ground/water/tile-transparent
+      - - Archs:
+          - ground/water/tile-transparent
+      - - Archs:
+          - ground/water/tile-transparent
+      - - Archs:
+          - ground/water/tile-transparent
+      - - Archs:
+          - ground/water/tile-transparent
+    - - - Archs:
+          - ground/sand/block
+      - - Archs:
+          - ground/sand/block
+      - - Archs:
+          - ground/sand/block
+      - - Archs:
+          - ground/sand/block
+      - - Archs:
+          - ground/sand/block
+      - - Archs:
+          - ground/sand/block
+      - - Archs:
+          - ground/sand/block
+      - - Archs:
+          - ground/sand/block
+      - - Archs:
+          - ground/sand/block
+      - - Archs:
+          - ground/sand/block
+      - - Archs:
+          - ground/sand/block
+      - - Archs:
+          - ground/sand/block
+      - - Archs:
+          - ground/sand/block
+      - - Archs:
+          - ground/sand/block
+      - - Archs:
+          - ground/sand/block
+      - - Archs:
+          - ground/sand/block
+      - - Archs:
+          - ground/sand/block
+      - - Archs:
+          - ground/sand/block
+      - - Archs:
+          - ground/sand/block
+      - - Archs:
+          - ground/sand/block
+      - - Archs:
+          - ground/water/tile-transparent
+      - - Archs:
+          - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/vbeam
+      - - Archs:
+          - ground/water/tile-transparent
+      - - Archs:
+          - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/vbeam
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -7354,16 +7368,28 @@ Big Beach:
       - []
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/tile
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/tile
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/tile
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/tile
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/tile
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/tile
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -7402,16 +7428,28 @@ Big Beach:
       - []
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/tile
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/tile
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/tile
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/tile
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/tile
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/tile
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -7617,16 +7655,22 @@ Big Beach:
       - []
       - []
       - []
-      - []
-      - []
+      - - Archs:
+          - ground/lumber/block
+      - - Archs:
+          - ground/lumber/block
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/vbeam
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/vbeam
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -7662,8 +7706,10 @@ Big Beach:
       - []
       - []
       - []
-      - []
-      - []
+      - - Archs:
+          - ground/lumber/block
+      - - Archs:
+          - ground/lumber/block
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -7706,16 +7752,22 @@ Big Beach:
       - - Archs:
           - ground/glass/pane-horizontal
       - []
-      - []
-      - []
+      - - Archs:
+          - ground/lumber/block
+      - - Archs:
+          - ground/lumber/block
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/vbeam
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
           - ground/water/tile-transparent
+        - Archs:
+          - ground/lumber/vbeam
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -9281,9 +9333,11 @@ Big Beach:
       - []
       - []
       - []
+      - - Archs:
+          - ground/lumber/tile
       - []
-      - []
-      - []
+      - - Archs:
+          - ground/lumber/tile
       - []
       - []
       - []
@@ -9315,10 +9369,14 @@ Big Beach:
       - []
       - []
       - []
-      - []
-      - []
-      - []
-      - []
+      - - Archs:
+          - ground/lumber/tile
+      - - Archs:
+          - ground/lumber/tile
+      - - Archs:
+          - ground/lumber/tile
+      - - Archs:
+          - ground/lumber/tile
       - []
       - []
       - []
@@ -9348,9 +9406,11 @@ Big Beach:
       - []
       - []
       - []
+      - - Archs:
+          - ground/lumber/tile
       - []
-      - []
-      - []
+      - - Archs:
+          - ground/lumber/tile
       - []
       - []
       - []
@@ -16205,8 +16265,10 @@ Big Beach:
       - []
       - []
       - []
-      - []
-      - []
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
       - []
       - []
       - []
@@ -16235,8 +16297,10 @@ Big Beach:
       - []
       - []
       - []
-      - []
-      - []
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
       - []
       - []
       - []
@@ -17253,8 +17317,10 @@ Big Beach:
       - []
       - []
       - []
-      - []
-      - []
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
       - []
       - []
       - []
@@ -17283,8 +17349,10 @@ Big Beach:
       - []
       - []
       - []
-      - []
-      - []
+      - - Archs:
+          - ground/plank/tile
+      - - Archs:
+          - ground/plank/tile
       - []
       - []
       - []
