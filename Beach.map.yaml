@@ -8268,7 +8268,8 @@ Big Beach:
       - - Archs:
           - ground/sandstone/block
       - []
-      - []
+      - - Archs:
+          - flora/seaoats
       - []
       - - Archs:
           - ground/water/tile-transparent
@@ -8312,7 +8313,8 @@ Big Beach:
       - []
       - []
       - []
-      - []
+      - - Archs:
+          - flora/seaoats
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -8350,10 +8352,13 @@ Big Beach:
       - []
       - []
       - []
+      - - Archs:
+          - flora/seaoats
       - []
-      - []
-      - []
-      - []
+      - - Archs:
+          - flora/seaoats
+      - - Archs:
+          - flora/seaoats
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -8393,7 +8398,8 @@ Big Beach:
       - []
       - []
       - []
-      - []
+      - - Archs:
+          - flora/seaoats
       - []
       - - Archs:
           - ground/water/tile-transparent
@@ -16128,18 +16134,82 @@ Big Beach:
           - ground/sandstone/block
       - - Archs:
           - ground/sandstone/block
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - []
+    - - []
       - []
       - []
       - []
       - []
       - []
       - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
+      - - Archs:
+          - ground/sandstone/block
+      - - Archs:
+          - ground/sandstone/block
+      - - Archs:
+          - ground/sandstone/block
+      - - Archs:
+          - ground/sandstone/block
+      - - Archs:
+          - ground/sandstone/block
+      - - Archs:
+          - ground/sandstone/block
+      - - Archs:
+          - ground/sandstone/block
+      - - Archs:
+          - ground/sandstone/block
+      - - Archs:
+          - ground/sandstone/block
+      - - Archs:
+          - ground/sandstone/block
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
+      - - Archs:
+          - ground/lumber/planks
       - []
     - - []
       - []
@@ -16228,26 +16298,6 @@ Big Beach:
       - []
       - []
       - []
-      - - Archs:
-          - ground/sandstone/block
-      - - Archs:
-          - ground/sandstone/block
-      - - Archs:
-          - ground/sandstone/block
-      - - Archs:
-          - ground/sandstone/block
-      - - Archs:
-          - ground/sandstone/block
-      - - Archs:
-          - ground/sandstone/block
-      - - Archs:
-          - ground/sandstone/block
-      - - Archs:
-          - ground/sandstone/block
-      - - Archs:
-          - ground/sandstone/block
-      - - Archs:
-          - ground/sandstone/block
       - []
       - []
       - []
@@ -16257,28 +16307,6 @@ Big Beach:
       - []
       - []
       - []
-      - []
-      - []
-      - []
-      - []
-    - - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - []
-      - - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/plank/tile
       - []
       - []
       - []
@@ -16307,10 +16335,8 @@ Big Beach:
       - []
       - []
       - []
-      - - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/plank/tile
+      - []
+      - []
       - []
       - []
       - []
@@ -17327,10 +17353,8 @@ Big Beach:
       - []
       - []
       - []
-      - - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/plank/tile
+      - []
+      - []
       - []
       - []
       - []
@@ -17359,10 +17383,8 @@ Big Beach:
       - []
       - []
       - []
-      - - Archs:
-          - ground/plank/tile
-      - - Archs:
-          - ground/plank/tile
+      - []
+      - []
       - []
       - []
       - []
