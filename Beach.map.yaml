@@ -8269,8 +8269,9 @@ Big Beach:
           - ground/sandstone/block
       - []
       - - Archs:
-          - flora/seaoats
-      - []
+          - flora/seaoats/sprout
+      - - Archs:
+          - flora/seaoats/fruiting
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -8314,7 +8315,7 @@ Big Beach:
       - []
       - []
       - - Archs:
-          - flora/seaoats
+          - flora/seaoats/sprout
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -8353,12 +8354,12 @@ Big Beach:
       - []
       - []
       - - Archs:
-          - flora/seaoats
+          - flora/seaoats/sprout
       - []
       - - Archs:
-          - flora/seaoats
+          - flora/seaoats/sprout
       - - Archs:
-          - flora/seaoats
+          - flora/seaoats/sprout
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -8396,11 +8397,13 @@ Big Beach:
       - []
       - []
       - []
-      - []
+      - - Archs:
+          - flora/seaoats/fruiting
       - []
       - - Archs:
-          - flora/seaoats
-      - []
+          - flora/seaoats/sprout
+      - - Archs:
+          - flora/seaoats/fruiting
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
@@ -8445,7 +8448,8 @@ Big Beach:
       - []
       - []
       - []
-      - []
+      - - Archs:
+          - flora/seaoats/fruiting
       - - Archs:
           - ground/water/tile-transparent
       - - Archs:
