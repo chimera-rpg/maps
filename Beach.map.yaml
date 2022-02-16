@@ -1,6 +1,7 @@
 Big Beach:
   Name: Big Austin's Big Beach
-  Description: |2+
+  Description: |+
+    Big Austin's biiiiig BEACH!
 
   Lore: |2+
 
@@ -9,38 +10,9 @@ Big Beach:
   Height: 27
   Darkness: 0
   ResetTime: 0
-  Script: |-
-    // Give every owner their own ball when they join, and remove it when they leave.
-    ballMap := make(map[uint32]ObjectI)
-    func OnOwnerJoin(owner OwnerI) {
-        if t := owner.GetTarget(); t != nil {
-            tile := t.GetTile()
-            if o, err := world.CreateObject("items/beach-ball"); err == nil {
-                ballMap[t.GetID()] = o
-                gmap.PlaceObject(o, tile.Y, tile.X, tile.Z)
-            }
-        }
-    }
-    func OnOwnerLeave(owner OwnerI) {
-        if t := owner.GetTarget(); t != nil {
-            if o, ok := ballMap[t.GetID()]; ok {
-                world.DeleteObject(o, true)
-                delete(ballMap, t.GetID())
-            }
-        }
-    }
-    func OnCleanup() {
-        fmt.Println("Ohhh, we cleaning up from script")
-    }
-    func OnSleep() {
-        fmt.Println("Beach inactivated")
-    }
-    func OnWake() {
-        fmt.Println("Beach activated")
-    }
-    /*func OnUpdate(delta time.Duration) {
-        fmt.Println("time!", delta)
-    }*/
+  "Y": 5
+  X: 8
+  Z: 22
   Tiles:
   - - - - Archs:
           - ground/sand/block
@@ -32534,3 +32506,41 @@ Big Beach:
       - []
       - []
       - []
+  Script: |+
+    // Give every owner their own ball when they join, and remove it when they leave.
+    ballMap := make(map[uint32]ObjectI)
+
+    func OnOwnerJoin(owner OwnerI) {
+        if t := owner.GetTarget(); t != nil {
+            tile := t.GetTile()
+            if o, err := world.CreateObject("items/beach-ball"); err == nil {
+                ballMap[t.GetID()] = o
+                gmap.PlaceObject(o, tile.Y, tile.X, tile.Z)
+            }
+        }
+    }
+
+    func OnOwnerLeave(owner OwnerI) {
+        if t := owner.GetTarget(); t != nil {
+            if o, ok := ballMap[t.GetID()]; ok {
+                world.DeleteObject(o, true)
+                delete(ballMap, t.GetID())
+            }
+        }
+    }
+
+    func OnCleanup() {
+        fmt.Println("Tidying the beach...")
+    }
+
+    func OnSleep() {
+        fmt.Println("Beach inactivated")
+    }
+
+    func OnWake() {
+        fmt.Println("Beach activated")
+    }
+    /*func OnUpdate(delta time.Duration) {
+        fmt.Println("time!", delta)
+    }*/
+
