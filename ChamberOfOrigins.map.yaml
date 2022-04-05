@@ -1275,7 +1275,11 @@ Chamber of Origins:
       - []
       - []
     - - []
-      - []
+      - - Archs:
+          - exits/exit
+          Exit:
+            Name: Big Beach
+            Touch: true
       - []
       - []
       - []
