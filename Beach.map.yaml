@@ -13,7 +13,6 @@ Big Beach:
   "Y": 5
   X: 8
   Z: 22
-  Haven: false
   Tiles:
   - - - - Archs:
           - ground/sand/block
@@ -22023,6 +22022,7 @@ Big Beach:
             tile := t.GetTile()
             if o, err := world.CreateObject("items/beach-ball"); err == nil {
                 ballMap[t.GetID()] = o
+                o.SetName(t.Name() + "'s " + o.Name())
                 gmap.PlaceObject(o, tile.Y, tile.X, tile.Z)
             }
         }
